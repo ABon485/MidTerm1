@@ -1,4 +1,4 @@
-import forestWaterfallImg from "./assets/forest-waterfall.jpg";
+import sunset from "./assets/sunset-1373171_1280.jpg";
 import desertDunes from "./assets/desert-dunes.jpg";
 import majesticMountains from "./assets/majestic-mountains.jpg";
 import caribbeanBeachImg from "./assets/caribbean-beach.jpg";
@@ -20,9 +20,9 @@ import amazonRiverImg from "./assets/amazon-river.jpg";
 export const AVAILABLE_PLACES = [
   {
     id: "p1",
-    title: "Forest Waterfall",
+    title: "sunset",
     image: {
-      src: forestWaterfallImg,
+      src: sunset,
       alt: "A tranquil forest with a cascading waterfall amidst greenery.",
     },
   },
